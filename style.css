@@ -1,0 +1,13 @@
+.contaner {
+    height: 100px;
+    width: 200px;
+    align-items: center;
+    background-color: rebeccapurple;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.contaner:hover {
+    transition: 1s, 0.5s;
+    background-color: red;
+}
